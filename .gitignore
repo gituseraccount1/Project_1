@@ -3,6 +3,10 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+3.	# Adding config.py file, so api key is not shared with public
+4.	config.py
+
+
 # C extensions
 *.so
 
