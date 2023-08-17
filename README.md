@@ -13,6 +13,16 @@ for writing out hvplot as a .png
 https://hvplot.holoviz.org/user_guide/Viewing.html 
 https://stackoverflow.com/questions/51239353/pip-install-selenium-error-python-3-7-windows-10  
 
+Note – highlighting a comment added towards the end of our program, which was based on a prompt from python:
+#For saving the hvplot figure  'pip3 install -U selenium'  Needs to be installed in you Gitbash Dev
+
+Links for information used during the presentation:
+United Nations  Department of Economic and Social Affairs Population Division: https://population.un.org/wpp/
+Worldbank blog about population trends:
+https://blogs.worldbank.org/opendata/future-world-s-population-4-charts 
+Washington Post Article on future urbanization of Africa
+https://www.washingtonpost.com/world/interactive/2021/africa-cities/ 
+
 
  
 Final Data Analysis:
@@ -28,5 +38,13 @@ Findings:
 
 Conclusion:
 Our analysis confirms that while many regions around the world have recognized the importance of robust transit systems and have invested in them, there are significant gaps, especially in Africa and India. These areas require urgent attention to enhance their transit capacities.
-With the dual challenge of urbanization and population growth, it is essential for policymakers, urban planners, and international organizations to collaborate. Strategic planning, funding, and timely implementation of transit projects in these areas will not
+With the dual challenge of urbanization and population growth, it is essential for policymakers, urban planners, and international organizations to collaborate so that developing countries can budget to address the growing need of transit systems.
+
+Potential Future Directions/Questions:
+Can we relate subway usage to reduction in greenhouse gas emissions?
+Does Urban Density correlate with the presence of subway systems?  (What explains heavy subway usage in Tokyo?)
+Use Scatter plots or Bar Plots to identify the outliers on congestion (ridership vs number of stations or length of subway system vs number of stations).  For further analysis.
+Does ridership differ on the longest subway systems compared to the shortest?
+Does ridership differ versus any of the ratios from the scatter plots?
+
 
